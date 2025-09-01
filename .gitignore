@@ -1,0 +1,9 @@
+.conda/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+*_chunks/
+*.wav
+*.aiff
